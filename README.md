@@ -14,5 +14,7 @@ The python file (unique_mapping.py) takes three inputs:
  The alignment file can be obtained from fast_align (https://github.com/clab/fast_align/)
  
  The parallel corpora can be obtained from following links:
+ 
  Hindi-English corpus: https://www.cfilt.iitb.ac.in/~parallelcorp/iitb_en_hi_parallel/
+ 
  German-English and French-English corpus: http://www.statmt.org/wmt14/translation-task.html
