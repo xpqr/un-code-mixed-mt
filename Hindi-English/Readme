@@ -2,3 +2,4 @@ This directory contains Hindi-English testsets
 > 'test.cm' is code-mixed testset
 > 'test.hi' is hindi testset
 > 'test.en' is english testset
+> 'fast_align.hi-en.test' is alignment information obtained via running fast_align on test.hi and test.en
