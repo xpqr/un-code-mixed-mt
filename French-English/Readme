@@ -1,0 +1,4 @@
+This directory contains French-English testsets
+> 'test.cm' is code-mixed testset
+> 'test.fr' is french testset
+> 'test.en' is english testset
