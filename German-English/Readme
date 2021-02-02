@@ -2,3 +2,4 @@ This directory contains German-English testsets
 > 'test.cm' is code-mixed testset
 > 'test.de' is german testset
 > 'test.en' is english testset
+> 'fast-align.de-en.test' is alignment information obtained via running fast_align on test.de and test.en
