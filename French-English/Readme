@@ -2,3 +2,4 @@ This directory contains French-English testsets
 > 'test.cm' is code-mixed testset
 > 'test.fr' is french testset
 > 'test.en' is english testset
+> 'fast-align.fr-en.test' is alignment information obtained via running fast_align on test.fr and test.en
